@@ -1,0 +1,1 @@
+Bu uygulamada terminalden aldığımız komuta göre "L298 MOTOR SURUCUSU" ile DC-Motoru sürdüm.

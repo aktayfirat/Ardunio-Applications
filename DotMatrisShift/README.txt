@@ -1,0 +1,1 @@
+Bu uygulamada 8x8 DotMatris kullanarak saniyede bir değişen ifade yaptım.
