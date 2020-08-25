@@ -1,3 +1,3 @@
 # Ardunio-Applications
 
-I will add my ardunio works here.
+I will add my Ardunio works here.
